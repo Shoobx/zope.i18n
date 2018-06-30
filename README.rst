@@ -12,6 +12,10 @@
         :target: http://zopei18n.readthedocs.org/en/latest/
         :alt: Documentation Status
 
+.. image:: https://api.codeclimate.com/v1/badges/bea73ab4def9a55db86a/maintainability
+   :target: https://codeclimate.com/github/Shoobx/zope.i18n/maintainability
+   :alt: Maintainability
+
 This package implements several APIs related to internationalization and
 localization.
 
